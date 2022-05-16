@@ -25,4 +25,4 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 
 ## Contact
-Created by [@IndrashisChatterjee] - feel free to contact me!
+Created by [@IndrashisChatterjee] - feel free to contact me! 
