@@ -1,5 +1,5 @@
 # Project Name
-SkinCancer_Detection
+**SkinCancer_Detection**
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
