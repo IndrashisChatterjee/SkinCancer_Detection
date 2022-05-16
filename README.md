@@ -16,10 +16,10 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - the class rebalance has helped in both getting good accuracy as well as reducing overfitting. However more improvements can be brought by introducing more layers or increasing epochs (resource constraints).
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
+- numpy - version 1.19.5
+- matplotlib - version 3.2.2
+- tensorflow - version 2.8
+- PIL-7.1.2
 ## Acknowledgements
 - This project was based on [this tutorial](https://www.upgrad.com).
 
