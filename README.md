@@ -19,7 +19,7 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - numpy - version 1.19.5
 - matplotlib - version 3.2.2
 - tensorflow - version 2.8
-- PIL-7.1.2
+- PIL- v 7.1.2
 ## Acknowledgements
 - This project was based on [this tutorial](https://www.upgrad.com).
 
